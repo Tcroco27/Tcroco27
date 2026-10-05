@@ -15,7 +15,7 @@
     <a href="https://tcroco27.github.io/My-Portfolio/">
       <img src="https://img.shields.io/badge/Portfolio-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://tcroco27.itch.io/">
+    <a href="[https://tcroco27.itch.io/](https://crocostar27.itch.io/)">
       <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
     </a>
     <a href="mailto:T2027jk@gmail.com">
