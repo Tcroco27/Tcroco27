@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0052cc&height=220&section=header&text=Tarek%20El%20Jarab&fontSize=42&subtext=Unreal%20Engine%205%20Developer%20%7C%20Gameplay%20Programmer&subFontSize=18&fontColor=ffffff&subFontColor=8b949e&animation=fadeIn" width="100%" />
 
   <!-- Animated Typing Effect -->
-  <a href="https://tcroco27.github.io/My-Portfolio/">
+  <a href="">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3080FF&center=true&vCenter=true&width=500&lines=BBuilding+Project+Orca+in+Unreal+Engine+5...;Gameplay+Systems+%26+AI+Behavior;York+University+Game+Dev+Graduate;" alt="Typing SVG" />
   </a>
 
@@ -50,7 +50,7 @@
         <li>Managed Git source control and built core Blueprint logic.</li>
       </ul>
       <p align="center">
-        <a href="https://tcroco27.itch.io/"><b>Play on Itch.io →</b></a>
+        <a href="https://crocostar27.itch.io/"><b>Play on Itch.io →</b></a>
       </p>
     </td>
   </tr>
