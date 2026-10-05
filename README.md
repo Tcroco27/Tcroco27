@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Effect -->
   <a href="https://tcroco27.github.io/My-Portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3080FF&center=true&vCenter=true&width=500&lines=Building+Project+Orca+in+Unreal+Engine+5...;Gameplay+Systems+%26+AI+Behavior;York+University+Game+Dev+Graduate;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3080FF&center=true&vCenter=true&width=500&lines=BBuilding+Project+Orca+in+Unreal+Engine+5...;Gameplay+Systems+%26+AI+Behavior;York+University+Game+Dev+Graduate;" alt="Typing SVG" />
   </a>
 
   <p>🎮 <b>8+ Publicly Released Titles</b> | 📍 Toronto, ON | 🎓 York University Digital Media Alum</p>
